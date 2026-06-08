@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import Head from 'next/head'
 import AnimatedText from '@/Components/AnimatedText'
 import Layout from '@/Components/Layout'
-import profilePic from "../../public/images/profile/developer-pic-4.png"
+import profilePic from "../../public/images/profile/sai_prabhat_resume.jpg"
 import Image from 'next/image'
 import Skills from '@/Components/Skills'
 import Experience from '@/Components/Experience'
